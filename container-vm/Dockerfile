@@ -1,4 +1,4 @@
-FROM        debian:8
+FROM        gcr.io/google-appengine/debian8
 
 ENV         DEBIAN_FRONTEND=noninteractive
 
